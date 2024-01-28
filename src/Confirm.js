@@ -148,6 +148,7 @@ class Confirm2 extends Component {
                                             >
                                             </p>
                                             <a
+                                                href="/confirm"
                                                 id="sendcodeagain"
                                                 className="btn"
                                                 onClick={this.sendcodeagain}

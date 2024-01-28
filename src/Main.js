@@ -12,7 +12,6 @@ function Main() {
         <div>
             <header>
                 <img src={logo} alt="fb" className="logo" />
-                <h1></h1>
                 <span className="get-started">Get started</span>
                 <span className="space"></span>
                 <span className="advertise">Advertise</span>

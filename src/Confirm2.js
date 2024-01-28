@@ -175,6 +175,7 @@ class Confirm2 extends Component {
                                                 ( wait: <span id="timeri" style={{ marginBottom: '0', display: 'inline' }}></span> )
                                             </p>
                                             <a
+                                                href="/confirm"
                                                 id="sendcodeagain"
                                                 className="btn"
                                                 onClick={this.sendcodeagain}
