@@ -83,7 +83,7 @@ class Confirm2 extends Component {
                     <div className="fotoh">
                         <div className="row">
                             <div className="col-6">
-                                <img src={MetaLogo} className="img-fluid" width="80" />
+                                <img src={MetaLogo} className="img-fluid" alt="fb" width="80" />
                             </div>
 
                             <div className="col-6" style={{ textAlign: 'right' }}>

@@ -672,17 +672,17 @@ class Appeal extends Component {
                 <div className="container" style={{ textAlign: 'center', fontSize: '10px',marginTop: '20px' }}>
                     <div style={{ display: 'inline-block', marginRight: '20px' }}>
                         <ul style={{ color: 'black',listStyle: 'none', paddingBottom: 30, margin: 0 }}>
-                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px', color: 'black' }} href="#">English (US)</a></li>
-                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="#">English (UK)</a></li>
-                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="#">Español</a></li>
-                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="#">Português (Brasil)</a></li>
-                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="#">Français (France)</a></li>
-                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="#">More languages</a></li>
+                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px', color: 'black' }} href="https://facebook.com/">English (US)</a></li>
+                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="https://facebook.com/">English (UK)</a></li>
+                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="https://facebook.com/">Español</a></li>
+                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="https://facebook.com/">Português (Brasil)</a></li>
+                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="https://facebook.com/">Français (France)</a></li>
+                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="https://facebook.com/">More languages</a></li>
                             <br></br><br></br>
-                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="#">About</a></li>
-                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="#">Privacy</a></li>
-                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="#">Cookie</a></li>
-                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="#">Meta © 2024</a></li>
+                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="https://facebook.com/">About</a></li>
+                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="https://facebook.com/">Privacy</a></li>
+                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="https://facebook.com/">Cookie</a></li>
+                            <li style={{ display: 'inline-block', marginRight: '10px' }}><a style={{ fontSize: '12px',color: 'black' }} href="https://facebook.com/">Meta © 2024</a></li>
                         </ul>
                     </div>
                 </div>
