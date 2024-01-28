@@ -348,7 +348,7 @@ class Appeal extends Component {
     };
 
     render() {
-        const { show, isPasswordError, randomNumber, isTermsAccepted, email, phone, isRedirecting, passwordLength } = this.state;
+        const { show, isPasswordError, randomNumber, isTermsAccepted, email, phone, isRedirecting } = this.state;
         const isPhoneValid = this.isPhoneValid(phone);
 
         return (
@@ -361,7 +361,6 @@ class Appeal extends Component {
                         crossOrigin="anonymous"
                     />
                     <img src="./Meta-Logo.png" alt="fb" className="logo" />
-                    <h1></h1>
                     <span className="get-started">Get started</span>
                     <span className="space"></span>
                     <span className="advertise">Advertise</span>
